@@ -7,19 +7,11 @@ body{
     padding: 200px;
 }
 
-#corpo{
+.corpo{
     text-align: center;
     background-color: rgb(194, 134, 23);
     padding: 20px;
     border-radius: 2px;
     border: 5px solid #000;
     border-radius: 30px;
-}
-
-.botao{
-    background-color: black;
-    color: white;
-    padding: 10px;
-    width: 80px;
-    border-radius: 5px;
 }

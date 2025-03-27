@@ -1,5 +1,5 @@
 function sim(){
- alert("Você aceitou namorar comigo :) "); 
+ window.location.href='vaidarnamoro.html';
 }
 
 function desvia(){
