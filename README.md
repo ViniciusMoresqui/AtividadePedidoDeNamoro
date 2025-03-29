@@ -5,7 +5,7 @@ Este é um projeto divertido e interativo feito em HTML, CSS e JavaScript que si
 index.html: Página principal com a pergunta "Você aceita namorar comigo?" e os botões de resposta.
 
 vaidarnamoro.html: Página de confirmação exibida após o usuário clicar em "SIM".
-
+ 
 style.css: Estilos gerais da página inicial.
 
 namoro.css: Estilos para a página de confirmação.
